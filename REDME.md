@@ -5,6 +5,6 @@
 
 
 .Strogonoff  de frango
-.Pavê Chocolate Branco
+.Pavê de Biscoito
 .Bolo de Cenoura
 
